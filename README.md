@@ -1,6 +1,6 @@
 # Paruto Brand Guide — brand.paruto.com
 
-The official brand identity guide for Paruto and its companies (Paruto Media, Paruto Music, Paruto Capital). Static site, no build step for the page itself.
+The official brand identity guide for Paruto and its companies (Paruto Media, Paruto Music, Paruto Capital, Paruto Kids). Static site, no build step for the page itself.
 
 ```
 index.html, styles.css, app.js   the guide

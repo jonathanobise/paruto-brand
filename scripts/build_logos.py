@@ -40,6 +40,7 @@ SUBSIDIARIES = {
     "media": ("MEDIA", "WE AMPLIFY IMPACT"),
     "music": ("MUSIC", None),
     "capital": ("CAPITAL", None),
+    "kids": ("KIDS", None),
 }
 MASTER_TAGLINE = "THINK POSSIBILITIES"
 

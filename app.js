@@ -76,7 +76,7 @@ const groups = [
     ['Symbol · Black', L + 'paruto-symbol-black'],
     ['Symbol · White', L + 'paruto-symbol-white'],
   ]],
-  ['Company lockups', ['media', 'music', 'capital'].flatMap((c) =>
+  ['Company lockups', ['media', 'music', 'capital', 'kids'].flatMap((c) =>
     ['gold', 'black', 'white'].map((v) => [
       `Paruto ${c[0].toUpperCase() + c.slice(1)} · ${v[0].toUpperCase() + v.slice(1)}`,
       `${L}paruto-${c}-logo-${v}`,
