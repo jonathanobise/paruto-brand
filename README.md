@@ -9,6 +9,7 @@ assets/icons/                    favicons, app icons, social share image
 paruto-brand-assets.zip          the downloadable pack (generated)
 scripts/build_logos.py           generates all of the above from one source
 scripts/fonts/                   Montserrat (OFL) used for the logotype outlines
+ROADMAP.md                       what has been built and what is left (feature IDs BG-###)
 ```
 
 ## Preview locally
